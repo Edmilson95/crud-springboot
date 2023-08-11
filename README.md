@@ -1,8 +1,8 @@
 # crud-springboot
 
-CRUD
-Maven
-Spring
-Thymeleaf
-JPA
+CRUD |
+Maven |
+Spring | 
+Thymeleaf |
+JPA |
 MySQL
